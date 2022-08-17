@@ -2,4 +2,4 @@
 
 ### Description
 
-### A simple Palindrome web project built with HTML, CSS, and JavaScript
+##### A simple Palindrome Checker built with HTML, CSS, and JavaScript
